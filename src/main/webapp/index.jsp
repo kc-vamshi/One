@@ -864,7 +864,7 @@
                 <p>Smart devices for modern life</p>
             </div>
             <div class="category-card">
-                <div class="category-icon"><i class="fas fa-shoe-prints"></i></div>
+                <div class="category-icon"><i class="fas fa-shoe-prints"></em></div>
                 <h3>Footwear</h3>
                 <p>Comfortable & stylish shoes</p>
             </div>
